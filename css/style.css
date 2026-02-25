@@ -84,3 +84,15 @@ main{
 main img{
     max-width: 100%;
 }
+
+footer{
+    text-align: center;
+    padding: 40px;
+    background-color: rgb(16, 217, 235);
+    margin-top: 60px;
+}
+
+footer.content{
+    width: 800px;
+    margin: 0 auto;
+}
